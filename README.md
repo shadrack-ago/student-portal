@@ -12,7 +12,7 @@ This project is a Student Portal designed to manage student records, course enro
 Built with a full-stack approach, it includes:  
 ✔ Frontend: Interactive UI (HTML/CSS/JavaScript)  
 ✔ Backend: RESTful API (Node.js/Express)  
-✔ Database: SQL (SQLite/PostgreSQL) or NoSQL (MongoDB) option  
+✔ Database: Mysql (mysql workbench)
 ---
 
 ## 🛠 Tech Stack
@@ -38,7 +38,7 @@ Built with a full-stack approach, it includes:
 ### Tools
 
 * Git (Version Control)  
-* Postman (API Testing)  
+* Thunder Client (API Testing)  
 * VS Code (Development)
 
 ---
@@ -101,8 +101,6 @@ student-portal/
 │   └── routes/           \# API endpoints    
 ├── frontend/    
 │   ├── index.html        \# Dashboard    
-│   ├── students.html     \# Student management    
-│   ├── courses.html      \# Course listings    
 │   └── js/script.js      \# Frontend logic    
 ├── README.md    
 └── package.json   
